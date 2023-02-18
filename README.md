@@ -1,4 +1,4 @@
-# Sessions Example App
+# WeWork for Friends Couches
 
 This example demonstrates using a pattern to keep track of user sessions in a
 database table to track per-tab or per-browser data, even without being logged
